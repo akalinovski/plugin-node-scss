@@ -1,0 +1,26 @@
+{
+  "name": "plugin-node-scss",
+  "version": "1.0.2",
+  "description": "Sass loader plugin",
+  "main": "sass.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akalinovski/plugin-node-scss.git"
+  },
+  "keywords": [
+    "sass",
+    "loader",
+    "plugin"
+  ],
+  "author": "Alexander Kalinovski <a.kalinovski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akalinovski/plugin-node-scss/issues"
+  },
+  "homepage": "https://github.com/akalinovski/plugin-node-scss",
+  "devDependencies": {},
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
+}
